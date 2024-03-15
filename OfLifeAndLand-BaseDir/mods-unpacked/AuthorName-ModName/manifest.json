@@ -1,0 +1,23 @@
+{
+	"name": "ModName",
+	"namespace": "AuthorName",
+	"version_number": "1.1.0",
+	"description": "Example mod description",
+	"website_url": "https://steamcommunity.com/app/1733110/workshop/",
+	"dependencies": [],
+	"id": 3183916582,
+	"extra": {
+		"godot": {
+			"authors": ["Author"],
+			"optional_dependencies": [],
+			"compatible_game_version": [],
+			"compatible_mod_loader_version": [ "6.2.0" ],
+			"incompatibilities": [],
+			"load_before": [],
+			"tags": ["Scenario", "Map", "Localization"],
+			"config_schema": { },
+			"description_rich": "Example mod rich description",
+			"image": null
+		}
+	}
+}
